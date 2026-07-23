@@ -1,14 +1,14 @@
 # Salary Prediction using Polynomial Regression
 
-**Author:** Akshat Garg  
+**Author:** Ayushi karwa 
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BCE11001 
 
-**Application Number:** IN26011052
+**Application Number:** IN26011444
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ayushi.23bce11001@vitbhopal.ac.in 
 
 ## Objective
 The objective of this project is to build a Polynomial Regression model (Degree = 3) to predict employee salaries based on their position level, capturing the non-linear relationship between hierarchy and compensation.
